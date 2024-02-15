@@ -1,0 +1,6 @@
+[submodule "misery-frontend"]
+	path = misery-frontend
+	url = https://github.com/neko967/misery-frontend.git
+[submodule "misery-backend"]
+	path = misery-backend
+	url = https://github.com/neko967/misery-backend.git
